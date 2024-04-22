@@ -1,0 +1,14 @@
+#gaddon-setting-row-contactStandardFields > td,
+#gaddon-setting-row-leadStandardFields > td {
+	padding-bottom: 0;
+}
+
+#gaddon-setting-row-contactCustomFields > td,
+#gaddon-setting-row-leadCustomFields > td {
+	padding-top: 0;
+}
+
+#gaddon-setting-row-contactStandardFields td:first-child,
+#gaddon-setting-row-leadStandardFields td:first-child {
+	width: 220px;
+}
